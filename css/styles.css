@@ -1,0 +1,27 @@
+#cards {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 0;
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(110, 222, 61, 0.5)),
+        url(/images/company_truck.jpg);
+
+}
+
+.paragraphs {
+    background-color: rgba(34, 205, 34, 0.649);
+    color: whitesmoke;
+    padding: 3% 0 3% 3%;
+}
+
+p {
+    font-size: 18px;
+}
+
+.carousel-inner {
+    width: max-content;
+}
+
+.carousel-item {
+    width: 800px;
+    
+}
