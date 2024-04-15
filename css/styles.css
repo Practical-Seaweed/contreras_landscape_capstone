@@ -23,5 +23,17 @@ p {
 
 .carousel-item {
     width: 800px;
-    
+
+}
+
+.login-form {
+    background-color: #295dab;
+    color: white;
+    padding: 10px 10px 10px 10px;
+}
+
+.mb-3 {
+    width: 500px;
+    padding-left: 80px;
+    padding-top: 25px;
 }
