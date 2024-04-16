@@ -17,14 +17,15 @@ p {
     font-size: 18px;
 }
 
-.carousel-inner {
-    width: max-content;
-}
-
 .carousel-item {
-    width: 800px;
-
+    width: auto;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    background-color: #295dab;
+    height: 620px;
 }
+
 
 .login-form {
     background-color: #295dab;
