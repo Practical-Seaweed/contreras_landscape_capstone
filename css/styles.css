@@ -21,20 +21,12 @@ p {
 }
 
 .carousel-item {
-    width: auto;
-    padding-left: 40px;
-    padding-right: 40px;
-    padding-bottom: 40px;
-    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(110, 222, 61, 0.5)),
-        url(/images/tress.jpg);
+    height: 500px;
 
-    height: 620px;
 }
 
-
 .login-form {
-    background-color: #295dab;
-    color: white;
+    color: black;
     padding: 10px 10px 10px 10px;
 }
 
