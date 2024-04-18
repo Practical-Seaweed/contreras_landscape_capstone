@@ -48,3 +48,27 @@ p {
     height: 18vw;
     object-fit: cover;
 }
+
+.table {
+    border: 3px solid black;
+    width: 63rem;
+    margin-left: 160px;
+    margin-top: 50px;
+
+}
+
+body {
+    /* display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: space-between; */
+    margin: 0;
+}
+
+.invalid-feedback {
+    color: yellow;
+}
+
+#footer {
+    
+}
