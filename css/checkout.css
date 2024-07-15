@@ -69,27 +69,6 @@ body {
     margin: 0;
 }
 
-.invalid-feedback {
-    color: yellow;
-}
-
-.card {
-    margin: auto;
-    background-color: #2DA884;
-}
-
-code {
-    color: #2DA884;
-}
-
-#contactUsForm {
-    color: white;
-}
-
-.contact-info {
-    margin-left: 20px; /* Adjust as needed for spacing */
-}
-
 /* CSS for Footer */
 .footer {
     background-color: #228b22;
@@ -135,39 +114,4 @@ code {
 
 .footer .spacing {
     margin-top: 1rem;
-}
-
-/* our Read More Button */
-#readMoreButton {
-    width: 350px;
-    height: 45px;
-}
-
-#contactPhone{
-    color: #2DA884;
-}
-
-#contactEmail {
-    color: #2DA884;
-}
-
-#contactHours {
-    color: #2DA884;
-}
-
-#mondayToFTime {
-
-
-    font-weight: bold;
-}
-
-#saturdayToSundayTime {
-
-  
-
-    font-weight: bold;
-}
-
-img.img-fluid {
-    object-fit: cover;
 }
