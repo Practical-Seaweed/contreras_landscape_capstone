@@ -76,11 +76,13 @@ body {
 .card {
     margin: auto;
 
+
     background-color: #228b22;
 }
 
 code {
     color: #228b22;
+
 
 }
 
@@ -147,6 +149,7 @@ code {
 
 #contactPhone{
 
+
     color: #228b22;
 }
 
@@ -156,6 +159,7 @@ code {
 
 #contactHours {
     color: #228b22;
+
 
 }
 
